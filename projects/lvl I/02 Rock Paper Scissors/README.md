@@ -5,7 +5,7 @@ This is a simple console-based Rock, Paper, Scissors game implemented in Python.
 ## How to Play
 
 1. **Clone the Repository:**
-git clone https://github.com/******/rock-paper-scissors.git
+git clone https://github.com/M-Rajabzadeh/Project_Based_Python/tree/main/projects/lvl%20I/03%20Password%20Generator
 cd rock-paper-scissors/src
 
 ## Project Structure
