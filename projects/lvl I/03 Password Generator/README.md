@@ -10,7 +10,7 @@ This project includes several functions for generating different types of passwo
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - NLTK (Natural Language Toolkit)
 
 ## Installation
