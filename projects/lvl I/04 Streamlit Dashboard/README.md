@@ -1,7 +1,4 @@
-# Password Generator App with Streamlit 
-
-## Project Overview
-The 'Password Generator Dashboard' is an interactive web application built with Python and Streamlit. It allows users to generate different types of passwords quickly, either randomly, as a memorable sequence of words, or as a pin code, based on their preferences.
+# Password Generator App with Streamlit
 
 ## Introduction to Streamlit
 
@@ -16,7 +13,13 @@ Streamlit is an open-source app framework for Machine Learning and Data Science 
 
 ## About This Project
 
-This project is a password generator application with three types of password generators: PIN Password, Random Password, and Memorable Password. The user can select the type of password and customize the options for each type.
+The 'Password Generator Dashboard' is an interactive web application built with Python and Streamlit. This project allows users to generate different types of passwords quickly and easily. The application offers three types of password generators: PIN Password, Random Password, and Memorable Password. Users can select the type of password they need and customize the options for each type based on their preferences.
+
+
+### requirements
+- nltk
+- streamlit
+- python
 
 ### Running the App
 
